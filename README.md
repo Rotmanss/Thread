@@ -1,0 +1,1 @@
+Application that using threading in C++ splits tasks and execute them by particular schema (Look for schema in results folder).
